@@ -1,6 +1,6 @@
 // CONFIGURAÇÕES DO TELEGRAM
-const token = '7842598726:AAF4S-pPYPkZSCX_TVCvn8pnbIUrm8txmho';
-const chat_id = '-4645579995';
+const token = 'token do bot';
+const chat_id = 'id do chat';
 
 // Função para enviar mensagem ao Telegram
 async function enviarMensagem(email, lat, lng) {
